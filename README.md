@@ -1,14 +1,18 @@
 🏡 House Price Prediction using Regression Models
+
 📌 Project Overview
+
 This project predicts house prices using machine learning regression models trained on a cleaned and preprocessed dataset. It covers the entire ML pipeline: data analysis, feature engineering, model training, evaluation, and comparison.
 
 📂 Dataset Information
+
 Dataset Name: House Prices
 Source: Kaggle
 Format: CSV (house_prices.csv)
 Target Variable: price (House price)
 
 🚀 Tech Stack
+
 Python
 Libraries:
 Data Handling: Pandas, NumPy
@@ -17,11 +21,13 @@ Modeling: Scikit-Learn
 Notebook Environment: Visual Studio Code
 
 💡 Models Used
+
 Linear Regression
 Ridge Regression
 Random Forest Regressor
 
 📊 Evaluation Metrics
+
 Each model was evaluated using:
 
 Mean Absolute Error (MAE)
