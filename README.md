@@ -22,6 +22,7 @@ Categorical: Neighborhood, HouseStyle, etc.
 
 Engineered Features: Created during preprocessing
 
+
 🚀 Tech Stack
 
 Python
@@ -34,7 +35,8 @@ Visualization: Matplotlib, Seaborn
 
 Modeling: Scikit-Learn
 
-Notebook Environment: Jupyter Notebook
+Notebook Environment: Visual Studio Code
+
 
 💡 Models Used
 
@@ -43,6 +45,7 @@ Linear Regression
 Ridge Regression
 
 Random Forest Regressor
+
 
 📊 Evaluation Metrics
 
@@ -56,6 +59,7 @@ R² Score
 
 📉 Visualizations comparing model performance and error distributions are included in the notebook.
 
+
 📈 Insights & Observations
 
 Random Forest achieved the best performance with an R² score ≈ 0.83.
@@ -65,6 +69,7 @@ Linear and Ridge Regression performed reasonably but underfit compared to ensemb
 Outliers and skewed features were identified using distribution and box plots.
 
 Feature importance analysis revealed key predictors for house prices.
+
 
 🛠️ How to Use
 
@@ -82,6 +87,7 @@ Train and evaluate regression models
 
 Visualize predictions and insights
 
+
 📂 Repository Structure
 
 📦 house-price-prediction-data  
@@ -89,6 +95,7 @@ Visualize predictions and insights
 ├── 📜 house_price_prediction.ipynb  
 ├── 📂 data  
 │   └── house_prices.csv  
+
 
 🔮 Future Improvements
 
@@ -98,9 +105,11 @@ Add regularization variants like Lasso and ElasticNet
 
 Build a deployment-ready app using Streamlit or Flask
 
+
 📜 License
 
 This project is licensed under the MIT License.
+
 
 👩‍💻 Author
 
